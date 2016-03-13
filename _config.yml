@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:
+title:            Fliesen Tanne
+locale:           de_DE
+url: http://www.fliesen-tanne.de
 
 
 # Jekyll configuration
@@ -41,10 +41,10 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Matthias Tanneberger
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Fliesenleger Meister"
+  email: mail@fliesen-tanne.de
   disqus-shortname:
   twitter: #username
   facebook: #username
